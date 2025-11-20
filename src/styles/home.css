@@ -1,0 +1,12 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  text-align:center;
+ 
+}
+
+.home-container h1 {
+  font-size: 12px;
+  font-weight: 800;
+  color: white;
+}
